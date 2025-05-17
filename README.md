@@ -20,10 +20,10 @@
 | RIGHT   |  →  |
 ## Preview
 ![Ảnh demo](image\Demo\menu.png)  
-![Ảnh demo](C:\hoccpp\Snake_2.2\image\Demo\setting.png)  
-![Ảnh demo](C:\hoccpp\Snake_2.2\image\Demo\score.png)  
-![Ảnh demo]("C:\hoccpp\Snake_2.2\image\Demo\play.png")  
-![Ảnh demo]("C:\hoccpp\Snake_2.2\image\Demo\gameover.png")
+![Ảnh demo](image\Demo\setting.png)  
+![Ảnh demo](image\Demo\score.png)  
+![Ảnh demo](image\Demo\play.png")  
+![Ảnh demo](image\Demo\gameover.png")
 ## Các kĩ thuật sử dụng
 - Thư viện SDL_2
 - Sử dụng nhiều class, vector, tách file, nạp chồng toán tử, ...
