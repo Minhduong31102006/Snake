@@ -13,10 +13,11 @@
 - Game có các chức năng xem kiểm cao nhất, chỉnh thanh âm lượng, chuyển giữa các chế độ, thoát game, ...
 ## Control
 | Control | Play | 
-| UP | ↑ |
-| DOWN | ↓ |
-| LEFT | ←- |
-| RIGHT | -→ |
+| --------|------|
+| UP      |  ↑   | 
+| DOWN    |  ↓   |
+| LEFT    |  ←-  |
+| RIGHT   |  -→  |
 ## Preview
 
 
