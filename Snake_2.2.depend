@@ -417,7 +417,7 @@
 	<string>
 	<utility>
 
-1747474107 source:c:\hoccpp\snake_2.2\main.cpp
+1747475539 source:c:\hoccpp\snake_2.2\main.cpp
 	<iostream>
 	<fstream>
 	"def.h"
@@ -426,7 +426,7 @@
 	"snake.h"
 	"mode.h"
 
-1745942811 source:c:\hoccpp\snake_2.2\button.cpp
+1747475539 source:c:\hoccpp\snake_2.2\button.cpp
 	"button.h"
 
 1745942823 c:\hoccpp\snake_2.2\button.h
@@ -455,7 +455,7 @@
 	"snake.h"
 	"button.h"
 
-1746205730 source:c:\hoccpp\snake_2.2\mode.cpp
+1747476135 source:c:\hoccpp\snake_2.2\mode.cpp
 	"mode.h"
 
 1738962281 c:\users\lenovo\downloads\sdl2_mixer-devel-2.8.1-mingw\sdl2_mixer-2.8.1\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
