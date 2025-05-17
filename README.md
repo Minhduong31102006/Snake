@@ -19,10 +19,10 @@
 | LEFT    |  ←  |
 | RIGHT   |  →  |
 ## Preview
-![Ảnh demo]("C:\Users\Lenovo\OneDrive - vnu.edu.vn\Pictures\Screenshots\Screenshot 2025-05-17 174954.png")
-![Ảnh demo]("C:\Users\Lenovo\OneDrive - vnu.edu.vn\Pictures\Screenshots\Screenshot 2025-05-17 175011.png")
-![Ảnh demo]("C:\Users\Lenovo\OneDrive - vnu.edu.vn\Pictures\Screenshots\Screenshot 2025-05-17 175044.png")
-![Ảnh demo]("C:\Users\Lenovo\OneDrive - vnu.edu.vn\Pictures\Screenshots\Screenshot 2025-05-17 175140.png")
+![Ảnh demo](C:\Users\Lenovo\OneDrive - vnu.edu.vn\Pictures\Screenshots\Screenshot 2025-05-17 174954.png)
+![Ảnh demo](C:\Users\Lenovo\OneDrive - vnu.edu.vn\Pictures\Screenshots\Screenshot 2025-05-17 175011.png)
+![Ảnh demo](C:\Users\Lenovo\OneDrive - vnu.edu.vn\Pictures\Screenshots\Screenshot 2025-05-17 175044.png)
+![Ảnh demo](C:\Users\Lenovo\OneDrive - vnu.edu.vn\Pictures\Screenshots\Screenshot 2025-05-17 175140.png)
 ## Các kĩ thuật sử dụng
 - Thư viện SDL_2
 - Sử dụng nhiều class, vector, tách file, nạp chồng toán tử, ...
