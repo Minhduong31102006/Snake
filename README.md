@@ -19,15 +19,19 @@
 | LEFT    |  ←  |
 | RIGHT   |  →  |
 ## Preview
-![Ảnh demo](image\Demo\menu.png)  
-![Ảnh demo](image\Demo\setting.png)  
-![Ảnh demo](image\Demo\score.png)  
-![Ảnh demo](image\Demo\play.png")  
-![Ảnh demo](image\Demo\gameover.png")
+![Ảnh demo](image/Demo/menu.png)  
+![Ảnh demo](image/Demo/setting.png)  
+![Ảnh demo](image/Demo/score.png)  
+![Ảnh demo](image/Demo/play.png)  
+![Ảnh demo](image/Demo/gameover.png)
 ## Các kĩ thuật sử dụng
 - Thư viện SDL_2
 - Sử dụng nhiều class, vector, tách file, nạp chồng toán tử, ...
 - Có thể lưu lại điểm cao nhất sau mỗi lần chơi nhờ đọc, ghi file
 - Photoshop
 ## Nguồn tham khảo
-- 
+- Link code tham khảo: [Nguồn code tham khảo](https://youtu.be/jdpBqzf-jNQ?si=npLzona-vqBKcf_t)
+- Link ý tưởng và hình ảnh: [Nguồn ý tưởng](https://youtu.be/I_IGbPugyH0?si=U4J3iVu3rz80g8og)
+- Âm thanh nền: [Nguồn âm thanh](https://youtu.be/GfYRemfx48Q?si=1Inszd2ALmfb_Tla)
+- Tài liệu tham khảo về thư viện SDL_2: [Tài liệu tham khảo](https://docs.google.com/document/d/1FZ3jTqHxtyZznNWiJmmve0zYu_aSliUqLP2OsMcdehQ/edit?tab=t.0)
+- ChatGPT
