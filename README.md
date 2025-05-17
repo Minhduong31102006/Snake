@@ -9,4 +9,14 @@
   - Chế độ dễ: Người chơi sẽ điều khiển rắn để ăn quả và sẽ thua nếu cắn vào đuôi của mình. Rắn có thể đi xuyên tường.
   - Chế độ trung: Tương tự như chế độ cổ điển nhưng sẽ thua khi rắn chạm tường.
   - Chế độ khó: Người chơi sẽ được trải nghiệm 1 chế độ chơi mới hoàn toàn, đó là thử sức với 1 chú rắn AI thông minh và tìm táo rất nhanh. Sau 30s, ai là người nhiều điểm hơn sẽ giành chiến thắng, và khi cắn vào đuôi chính mình sẽ thua ngay lập tức, còn cắn vào rắn của đối phương sẽ không sao.
- 
+- Game có các âm thanh nhẹ nhàng giúp người chơi thưu giãn trong quá trình chơi.
+- Game có các chức năng xem kiểm cao nhất, chỉnh thanh âm lượng, chuyển giữa các chế độ, thoát game, ...
+## Control
+| Control | Play | 
+| UP | ↑ |
+| DOWN | ↓ |
+| LEFT | ←- |
+| RIGHT | -→ |
+## Preview
+
+
