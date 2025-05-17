@@ -19,10 +19,10 @@
 | LEFT    |  ←  |
 | RIGHT   |  →  |
 ## Preview
-![Ảnh demo]("C:\hoccpp\Snake_2.2\image\Demo\menu.png")
-![Ảnh demo]("C:\hoccpp\Snake_2.2\image\Demo\setting.png")
-![Ảnh demo]("C:\hoccpp\Snake_2.2\image\Demo\score.png")
-![Ảnh demo]("C:\hoccpp\Snake_2.2\image\Demo\play.png")
+![Ảnh demo](C:\hoccpp\Snake_2.2\image\Demo\menu.png)  
+![Ảnh demo](C:\hoccpp\Snake_2.2\image\Demo\setting.png)  
+![Ảnh demo](C:\hoccpp\Snake_2.2\image\Demo\score.png)  
+![Ảnh demo]("C:\hoccpp\Snake_2.2\image\Demo\play.png")  
 ![Ảnh demo]("C:\hoccpp\Snake_2.2\image\Demo\gameover.png")
 ## Các kĩ thuật sử dụng
 - Thư viện SDL_2
